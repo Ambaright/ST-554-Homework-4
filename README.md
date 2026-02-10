@@ -1,2 +1,3 @@
 # ST-554-Homework-4
-Homework 4 for ST 554
+The purpose of this homework is to practice summarizing data using pandas and matplotlib and do some
+more advanced function writing.
